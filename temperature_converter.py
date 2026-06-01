@@ -1,5 +1,5 @@
-fahrenheit = float(input("Enter Fahrenheit temperature: "))
+fahrenheit = float(input("请输入华氏温度: "))
 
 celsius = (fahrenheit - 32) * 5 / 9
 
-print("Celsius temperature: %.2f C" % celsius)
+print("摄氏温度: %.2f C" % celsius)
